@@ -1,42 +1,42 @@
 const musicData = {
   Bollywood: [
     {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  },
-    { name: "Lal Pari", file: "music/Bollywood/Laal Pari.mp3", image: "images/Bollywood/lalpari.jpg" },
-    { name: "Kabhi kabhi Aditi", file: "music/Bollywood/kabiaditi.mp3", image: "images/Bollywood/kabhiaditi.jpg" },
-    { name: "Chikni Chameli", file: "music/Bollywood/chiknichameli.mp3", image: "images/Bollywood/chiknichameli.jpg" },
-    { name: "Ud-daa Punjab", file: "music/Bollywood/Ud-daa Punjab.mp3", image: "images/Bollywood/Ud-daa Punjab.jpg" },
-    { name: "Character Dheela", file: "music/Bollywood/Character Dheela.mp3", image: "images/Bollywood/characterdheela.jpg" },
-    { name: "Dil Ka Telephone", file: "music/Bollywood/Dil Ka Telephone.mp3", image: "images/Bollywood/dilkatele.jpg" },
-     { name: "Kukkad kamal da", file: "music/Bollywood/kukkad.mp3", image: "images/Bollywood/kukkad.jpg" },
+    { name: "Lal Pari", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141329/music/Bollywood/lalpari.mp3", image: "images/Bollywood/lalpari.jpg" },
+    { name: "Kabhi kabhi Aditi", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141299/music/Bollywood/kabhi%20aditi.mp3", image: "images/Bollywood/kabhiaditi.jpg" },
+    { name: "Chikni Chameli", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141369/music/Bollywood/chiknichameli.mp3", image: "images/Bollywood/chiknichameli.jpg" },
+    { name: "Ud-daa Punjab", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141345/music/Bollywood/udtapunjab.mp4", image: "images/Bollywood/Ud-daa Punjab.jpg" },
+    { name: "Character Dheela", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141377/music/Bollywood/charactrdheela.mp3", image: "images/Bollywood/characterdheela.jpg" },
+    { name: "Dil Ka Telephone", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141282/music/Bollywood/dilkatelephone.mp4", image: "images/Bollywood/dilkatele.jpg" },
+     { name: "Kukkad kamal da", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141334/music/Bollywood/kukkad.mp4", image: "images/Bollywood/kukkad.jpg" },
     { name: "Tum Hi Ho", file: "music/song1.mp3", image: "images/Bollywood/tunhi.jpg" },
     {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  }
   ],
   Punjabi: [
-    { name: "Water - Diljit Dosanjh", file: "music/Punjabi/Water - Diljit Dosanjh.mp3", image: "images//Punjabi/water.jpg" },
-    { name: "Born to Shine", file: "music/Punjabi/borntoshine.mp3", image: "images/Punjabi/borntoshine.jpg" }
+    { name: "Water - Diljit Dosanjh", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141395/music/Punjabi/water.mp3", image: "images//Punjabi/water.jpg" },
+    { name: "Born to Shine", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141338/music/Punjabi/borntoshine.mp3", image: "images/Punjabi/borntoshine.jpg" }
   ],
    Bhojpuri: [
-    { name: "Heroine", file: "music/Bhojpuri/heroine.mp3", image: "images/Bhojpuri/heroine.jpg" },
-    { name: "Bullet Pa Jija", file: "music/Bhojpuri/bulletpajija.mp3", image: "images/Bhojpuri/bulletpajija.jpg" },
+    { name: "Heroine", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141305/music/Bhojpuri/heroine.mp3", image: "images/Bhojpuri/heroine.jpg" },
+    { name: "Bullet Pa Jija", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141337/music/Bhojpuri/bulletpajija.mp3", image: "images/Bhojpuri/bulletpajija.jpg" },
      {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  }
   ],
 
    Haryanvi: [
-    { name: "Solid Body", file: "music/Haryanvi/solidbody.mp3", image: "images/Haryanvi/solidbody.jpg" },
-    { name: "8 Parche", file: "music/Haryanvi/8 Parche.mp3", image: "images/Haryanvi/8parche.jpg" },
-    {  name: "Chandigarh", file: "music/Haryanvi/Chandigarh.mp3", image: "images/logo.jpg"  },
+    { name: "Solid Body", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141303/music/Haryanvi/solidbody.mp3", image: "images/Haryanvi/solidbody.jpg" },
+    { name: "8 Parche", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141358/music/Haryanvi/8parche.mp3", image: "images/Haryanvi/8parche.jpg" },
+    {  name: "Chandigarh", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141322/music/Haryanvi/chandigarh.mp4", image: "images/logo.jpg"  },
     {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  },
 
   ],
   
   Rap: [
-     {  name: "Millanaoire-Honey Singh", file: "music/Rap/Millionaire.mp3", image: "images/Rap/millanaire.jpg"  },
+     {  name: "Millanaoire-Honey Singh", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141374/music/Rap/milliaonare.mp3", image: "images/Rap/millanaire.jpg"  },
     { name: "Apna Time Aayega", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749018161/fymheywhqwxxcohfsowo.mp3", image: "images/logo.jpg" },
     { name: "Mere Gully Mein", file: "music/mere_gully_mein.mp3", image: "images/logo.jpg" },
      {  name: "Unknown", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749018161/fymheywhqwxxcohfsowo.mp3", image: "images/logo.jpg"  }
   ],
   Bhakti: [
-    { name: "Janki Janki", file: "music/Bhakti/jankijanki.mp3", image: "images/Bhakti/jankijanki.jpg" },
+    { name: "Janki Janki", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141402/music/Bhakti/jankijanki.mp3", image: "images/Bhakti/jankijanki.jpg" },
     { name: "Unknown", file: "music/mere_gully_mein.mp3", image: "images/logo.jpg" },
      {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  }
   ],
