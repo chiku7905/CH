@@ -1,7 +1,7 @@
 const musicData = {
   Bollywood: [
     {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  },
-        {  name: "Ban ja tu meri rani", file: "music/song1.mp3", image: "https://res.cloudinary.com/dmw40bais/image/upload/v1751785158/music/thumbnail/banjarani.jpg"  },
+        {  name: "Ban ja tu meri rani", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1751786132/music/Bollywood/Ban_Ja_Rani.mp3", image: "https://res.cloudinary.com/dmw40bais/image/upload/v1751785158/music/thumbnail/banjarani.jpg"  },
     { name: "Lal Pari", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141329/music/Bollywood/lalpari.mp3", image: "images/Bollywood/lalpari.jpg" },
     { name: "Kabhi kabhi Aditi", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141299/music/Bollywood/kabhi%20aditi.mp3", image: "images/Bollywood/kabhiaditi.jpg" },
     { name: "Chikni Chameli", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141369/music/Bollywood/chiknichameli.mp3", image: "images/Bollywood/chiknichameli.jpg" },
