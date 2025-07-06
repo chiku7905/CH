@@ -1,6 +1,7 @@
 const musicData = {
   Bollywood: [
     {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  },
+        {  name: "Ban ja tu meri rani", file: "music/song1.mp3", image: "https://res.cloudinary.com/dmw40bais/image/upload/v1751785158/music/thumbnail/banjarani.jpg"  },
     { name: "Lal Pari", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141329/music/Bollywood/lalpari.mp3", image: "images/Bollywood/lalpari.jpg" },
     { name: "Kabhi kabhi Aditi", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141299/music/Bollywood/kabhi%20aditi.mp3", image: "images/Bollywood/kabhiaditi.jpg" },
     { name: "Chikni Chameli", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141369/music/Bollywood/chiknichameli.mp3", image: "images/Bollywood/chiknichameli.jpg" },
@@ -25,6 +26,8 @@ const musicData = {
     { name: "Solid Body", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141303/music/Haryanvi/solidbody.mp3", image: "images/Haryanvi/solidbody.jpg" },
     { name: "8 Parche", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141358/music/Haryanvi/8parche.mp3", image: "images/Haryanvi/8parche.jpg" },
     {  name: "Chandigarh", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1749141322/music/Haryanvi/chandigarh.mp4", image: "images/logo.jpg"  },
+      {  name: "Feelings", file: "https://res.cloudinary.com/dmw40bais/video/upload/v1751785719/music/Haryanvi/Sumit_Goswami_-_Feelings___KHATRI___Deepesh_Goyal___Haryanvi_Song_2020_mjb8d7.mp4", image: "https://res.cloudinary.com/dmw40bais/image/upload/v1751784891/music/feelings.jpg"  },
+
     {  name: "Unknown", file: "music/song1.mp3", image: "images/logo.jpg"  },
 
   ],
